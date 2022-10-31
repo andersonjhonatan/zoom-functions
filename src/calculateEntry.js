@@ -2,7 +2,6 @@ const data = require('../data/zoo_data');
 
 function countEntrants(entrants) {
   // seu códdddigo aqui
-  Primeiro 
 }
 
 function calculateEntry(entrants) {
